@@ -1,0 +1,44 @@
+{
+  "name": "jquery.uls",
+  "description": "Universal Language Selector",
+  "main": [
+    "css/jquery.uls.css",
+    "css/jquery.uls.grid.css",
+    "css/jquery.uls.lcd.css",
+    "src/jquery.uls.data.js",
+    "src/jquery.uls.data.utils.js",
+    "src/jquery.uls.lcd.js",
+    "src/jquery.uls.languagefilter.js",
+    "src/jquery.uls.regionfilter.js",
+    "src/jquery.uls.core.js"
+  ],
+  "authors": [
+    "Alolita Sharma",
+    "Amir Aharoni",
+    "Arun Ganesh",
+    "Brandon Harris",
+    "Niklas Laxström",
+    "Pau Giner",
+    "Santhosh Thottingal",
+    "Siebrand Mazeland"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "internationalization",
+    "localization",
+    "uls",
+    "jquery",
+    "l10n"
+  ],
+  "homepage": "https://github.com/wikimedia/jquery.uls",
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
